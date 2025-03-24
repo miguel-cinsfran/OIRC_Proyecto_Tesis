@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/logo_UCA.png" alt="Logo UCA" width="150" height="auto"/>
+  <img src="imagenes/logo_UCA.png" alt="Logo UCA" width="200" height="auto"/>
 </p>
 
 # UNIVERSIDAD CATÓLICA “NUESTRA SEÑORA DE LA ASUNCIÓN”
