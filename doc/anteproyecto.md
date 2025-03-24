@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="doc/imagenes/logo_UCA.png" alt="Logo UCA" />
+  <img src="imagenes/logo_UCA.png" alt="Logo UCA" />
 </p>
 # UNIVERSIDAD CATÓLICA “NUESTRA SEÑORA DE LA ASUNCIÓN”
 **FACULTAD DE CIENCIAS Y TECNOLOGÍA**  
