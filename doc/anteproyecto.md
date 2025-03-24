@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="imagenes/logo_UCA.png" alt="Logo UCA" />
+  <img src="imagenes/logo_UCA.png" alt="Logo UCA" width="150" height="auto"/>
 </p>
+
 # UNIVERSIDAD CATÓLICA “NUESTRA SEÑORA DE LA ASUNCIÓN”
 **FACULTAD DE CIENCIAS Y TECNOLOGÍA**  
 **CARRERA DE ANÁLISIS DE SISTEMAS INFORMÁTICOS**
